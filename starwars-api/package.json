@@ -1,0 +1,15 @@
+{
+  "name": "starwars-api",
+  "version": "1.0.0",
+  "description": "A project of a RestAPI with Node.Js, MongoDB and Express.Js with the Star Wars Theme",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src /index.js"
+  },
+  "author": "Igor Mendes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.2"
+  }
+}
